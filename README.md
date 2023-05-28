@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
 
-Meu nome é Ruan Portella. Sou Desenvolvedor Web Full Stack, apaixonado por tecnologia e adoro o que faço. Estou cada vez evoluindo mais e aprendendo para fazer o meu trabalho melhor.
+Sou Desenvolvedor Web Full Stack, apaixonado por tecnologia e adoro o que faço. Estou cada vez evoluindo mais e aprendendo para fazer o meu trabalho melhor.
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-portella)
