@@ -14,5 +14,3 @@ Meu nome é Ruan Portella. Sou Desenvolvedor Web Full Stack, apaixonado por tecn
 ![](https://github-readme-stats.vercel.app/api?username=Ruan-Portella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Portella&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Portella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img max-width="100%" src="https://github.com/Ruan-Portella/Ruan-Portella/raw/output/github-contribution-grid-snake.svg" alt="cobrinhaSVG">
