@@ -4,7 +4,7 @@ Meu nome é Ruan Portella. Sou Desenvolvedor Web Full Stack, apaixonado por tecn
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-portella)
-[![GMAIL](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](mailto:ruanmorales29@gmail.com) 
+[![GMAIL](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanmorales29@gmail.com) 
 
 
 # 💻 Tech Stack:
