@@ -42,7 +42,7 @@ Sou Desenvolvedor Web Full Stack, apaixonado por tecnologia e adoro o que faço.
 # 📊 GitHub Stats:
 
 <div align="center">
-    <img height="165em" src="https://github-readme-stats-ruan-portella.vercel.app/api?username=ruan-portella&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
+    <img height="165em" src="https://github-readme-stats-ruan-portella.vercel.app/api?username=ruan-portella&include_all_commits=true&show_icons=true&theme=dark"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-portella&langs_count=10&count_private=true&theme=dark&layout=compact"/>
   <img src="https://streak-stats.demolab.com/?user=ruan-portella&theme=dark">
 </div>
