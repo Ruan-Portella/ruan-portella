@@ -2,6 +2,8 @@
 
 Sou Desenvolvedor Web Full Stack, apaixonado por tecnologia e adoro o que faço. Estou cada vez evoluindo mais e aprendendo para fazer o meu trabalho melhor.
 
+Atualmente estou fazendo Sistema Da Informação e um curso Full Stack pela Trybe
+
 # 🌐 Social:
 
 <div align="center">
