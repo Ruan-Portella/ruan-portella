@@ -13,6 +13,9 @@ Atualmente estou fazendo Sistema Da Informação e um curso Full Stack pela Tryb
   <a href='mailto:ruanmorales29@gmail.com'>
   <img src='https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail'/>
   </a>
+  <a href='https://ruanportella.dev'>
+    <img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white' alt='Website'>
+  </a>
 </div>
 
 # 💻 Tech Stack:
