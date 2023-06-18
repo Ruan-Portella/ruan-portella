@@ -22,6 +22,7 @@ Atualmente estou fazendo Sistema Da Informação e um curso Full Stack pela Tryb
   <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' alt='Styled Components'>
   <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white' alt='Figma'>
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' alt='LINUX'>
+  <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white' alt='MacOs'>
   <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white' alt='Docker'>
   <img src='https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white' alt='ESLint'>
   <img src='https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E' alt='Prettier'>
