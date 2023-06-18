@@ -39,6 +39,7 @@ Atualmente estou fazendo Sistema Da Informação e um curso Full Stack pela Tryb
   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node'>
   <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='Redux'>
   <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL'>
+  <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='Express.js'>
 </div>
 
 # 📊 GitHub Stats:
