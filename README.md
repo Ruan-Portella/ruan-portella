@@ -51,7 +51,7 @@ Vamos juntos construir um futuro digital incrível! ✨
   <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='Express.js'>
 </div>
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 <div align="center">
     <img height="165em" src="https://github-readme-stats-ruan-portella.vercel.app/api?username=ruan-portella&include_all_commits=true&show_icons=true&theme=dark&count_private=true"/>
@@ -59,7 +59,7 @@ Vamos juntos construir um futuro digital incrível! ✨
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruan-portella&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
-# 📊 Contribuições:
+# 📖 Contribuições:
 
 ![snake gif](https://github.com/Ruan-Portella/ruan-portella/blob/output/github-contribution-grid-snake.svg)
 
