@@ -59,3 +59,5 @@ Vamos juntos construir um futuro digital incrível! ✨
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruan-portella&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
+![snake gif](https://github.com/Ruan-Portella/ruan-portella/blob/output/github-contribution-grid-snake.svg)
+
