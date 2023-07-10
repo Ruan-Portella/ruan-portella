@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor Web Full Stack apaixonado por tecnologia e em constante evolução! 🌐
 
-Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Sou um entusiasta da programação, apaixonado por tecnologia e tenho prazer em compartilhar o meu trabalho com a comunidade. Com apenas 18 anos de idade, estou trilhando um caminho promissor como desenvolvedor, sempre em busca de aprimorar minhas habilidades e oferecer soluções inovadoras.
+Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Sou um entusiasta da programação, apaixonado por tecnologia e tenho prazer em compartilhar o meu trabalho com a comunidade. Com apenas 19 anos de idade, estou trilhando um caminho promissor como desenvolvedor, sempre em busca de aprimorar minhas habilidades e oferecer soluções inovadoras.
 
 Atualmente, estou focado em aprimorar meus conhecimentos por meio do curso Full Stack oferecido pela Trybe, juntamente com meus estudos na faculdade de Sistema da Informação. Essas experiências me proporcionam uma formação sólida e abrangente, me permitindo trabalhar em todas as camadas de um projeto web, desde o frontend até o backend.
 
