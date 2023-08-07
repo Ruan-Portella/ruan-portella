@@ -58,9 +58,11 @@ Vamos juntos construir um futuro digital incrível! ✨
 </div>
 
 # 📖 Contribuições:
-<div align='center'>
-  <img src='https://user-badge.committers.top/brazil/Ruan-Portella.svg'>
 
+<div align='center'>
+  <a href='https://committers.top/brazil#Ruan-Portella'>
+      <img src='https://user-badge.committers.top/brazil/Ruan-Portella.svg'>
+  </a>
 </div>
 
 ![snake gif](https://github.com/Ruan-Portella/ruan-portella/blob/output/github-contribution-grid-snake-dark.svg)
