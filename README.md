@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/brazil/Ruan-Portella.svg)](https://user-badge.committers.top/brazil/Ruan-Portella)
-
 # 💫 Sobre Mim:
 
 🚀 Desenvolvedor Web Full Stack apaixonado por tecnologia e em constante evolução! 🌐
@@ -53,14 +51,17 @@ Vamos juntos construir um futuro digital incrível! ✨
 </div>
 
 #  GitHub Stats:
-
 <div align="center">
-    <img height="165em" src="https://github-readme-stats-ruan-portella.vercel.app/api?username=ruan-portella&include_all_commits=true&show_icons=true&theme=dark&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-ruan-portella.vercel.app/api?username=ruan-portella&include_all_commits=true&show_icons=true&theme=dark&count_private=true"/>
   <img height="165em" src="https://github-readme-stats-ruan-portella.vercel.app/api/top-langs/?username=ruan-portella&langs_count=10&count_private=true&theme=dark&layout=compact"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruan-portella&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
 # 📖 Contribuições:
+<div align='center'>
+  <img src='https://user-badge.committers.top/brazil/Ruan-Portella.svg'>
+
+</div>
 
 ![snake gif](https://github.com/Ruan-Portella/ruan-portella/blob/output/github-contribution-grid-snake-dark.svg)
 
