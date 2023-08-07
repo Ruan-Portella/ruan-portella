@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/brazil/Ruan-Portella.svg)](https://user-badge.committers.top/brazil/Ruan-Portella)
+
 # 💫 Sobre Mim:
 
 🚀 Desenvolvedor Web Full Stack apaixonado por tecnologia e em constante evolução! 🌐
@@ -61,4 +63,5 @@ Vamos juntos construir um futuro digital incrível! ✨
 # 📖 Contribuições:
 
 ![snake gif](https://github.com/Ruan-Portella/ruan-portella/blob/output/github-contribution-grid-snake-dark.svg)
+
 
